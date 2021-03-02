@@ -1,9 +1,19 @@
 .team-container{
     display: flex;
+    width: 70%;
+    float: left;
 }
 .player-container{
     width: 70%;
     margin-left: 20px;
     margin-right: 5px;
     border-right: 1px solid green;
+}
+.cart-container{
+    width: 30%;
+    float: right;
+    position: fixed;
+    padding-left: 20px;
+    right: 0px;
+
 }

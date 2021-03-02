@@ -34,7 +34,7 @@ export const playerData = [{
     "batting": "Left Handed",
     "bowling": "Right Arm medium seam",
     "image": "https://i.ibb.co/8gC8DXT/Soumya-Sarkar-CWC19.png",
-    "salary": "100000"
+    "salary": 100000
   }, {
     "id": 5,
     "name":"MUSFIQUR RAHIM",
@@ -43,7 +43,7 @@ export const playerData = [{
     "batting": "Right handed",
     "bowling": "left-arm fast medium",
     "image": "https://i.ibb.co/VC4xqjC/Mushfiqur-Rahim-CWC19.png",
-    "salary": "200000"
+    "salary": 200000
   }, {
     "id": 6,
     "name":"MOMINUL HAQUE",

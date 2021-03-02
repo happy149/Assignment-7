@@ -3,7 +3,7 @@ import {useState} from 'react';
 import {playerData} from '../../../playerData';
 import Cart from '../../Cart/Cart';
 import Player from '../../Player/Player';
-
+import Row from 'react-bootstrap/Row';
 import './Team.css';
 
 
@@ -14,14 +14,24 @@ const Team =() => {
     const [players, setPlayers] = useState(first12);
     const [cart, setCart] = useState([]);
 
+    const [addedplayers, setAddedPlayers] = useState([]);
+
     const handleAddPlayer = (player) =>{
-        const newCart = [...cart, player];
-        setCart (newCart);
+
+        var exists = addedplayers.some(item => player.name === item);
+        console.log(exists);
+        if(exists===false){
+            const newCart = [...cart, player];
+            setCart (newCart);
+            addedplayers.push(player.name);
+        }
+       
     }
    
     return (
+        <div>
         <div className="team-container">
-            <div className="player-container">
+            <Row>
             
                 {
                 players.map(player=> <Player 
@@ -30,11 +40,13 @@ const Team =() => {
                 }
                 
             
-            </div>
+                </Row>
+        </div>
             <div className="cart-container">
                 <Cart cart={cart}></Cart>
             </div>
-        </div>
+            </div>
+        
     );
     };
 

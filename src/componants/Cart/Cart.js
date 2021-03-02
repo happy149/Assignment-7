@@ -3,8 +3,9 @@ import React from 'react';
 const Cart = (props) => {
     const cart = props.cart;
     const total = cart.reduce((total,player) => total + player.salary,0);
-    const tax =total/10;
- 
+    // console.log(props);
+    const tax = (total/100)*10;
+    
     
     
     
