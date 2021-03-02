@@ -1,0 +1,99 @@
+
+  [{
+    "id": 1,
+    "name": "Tamim Iqbal Khan is a Bangladeshi international cricketer. He is the current Bangladesh's ODI captain.[2] Tamim made his ODI debut in 2007 and played his first Test match the following year. He served as vice-captain of the national side between December 2010 and September 2011.",
+    "age": 31,
+    "batting style": "Left handed",
+    "bowling style": "Right-arm off break Right-arm medium",
+    "image": "https://ibb.co/7t4hDND",
+    "salary": 100000
+}, 
+ {
+    "id": 2,
+    "name": "Imrul Kayes is a Bangladeshi international cricketer who played for Khulna Division as a left-hand batsman and occasional wicket-keeper. He is currently the captain of Comilla Victorians.",
+    "age": 34,
+    "batting style": "Left handed",
+    "bowling style": "Right-arm off break",
+    "image": "https://ibb.co/Pm4S3Sg",
+    "salary": 150000
+  }, {
+    "id": 3,
+    "name":"Shakib Al Hasan is a Bangladeshi international cricketer and philanthropist who was ICC's no.1 all rounder in all three formats of the game in 2015.He is the only captain to take a five-for in T20Is.[4][5] He was also ranked as one of the world's most famous athletes by ESPN World Fame 100 in 2019.",
+    "age": 33,
+    "batting style": "Left handed",
+    "bowling style": "slow left-arm orthodox",
+    "image": "https://ibb.co/5Wf67rM",
+    "salary": 120000
+  }, {
+    "id": 4,
+    "name":"Soumya Sarkar is a Bangladeshi cricketer. He is a left-handed batsman, right arm fast bowler. Sarkar plays for the Rangpur Riders in the Bangladesh Premier League, Khulna Division in the National Cricket League, and Prime Bank Cricket Club in the Dhaka Premier Division.",
+    "age": "28",
+    "batting style": "Left Handed",
+    "bowling style": "Right Arm medium seam",
+    "image": "https://ibb.co/XxQJZVN",
+    "salary": "100000"
+  }, {
+    "id": 5,
+    "name":"Mushfiqur Rahim, known as 'Mushi' or 'Mushfiq', is a Bangladeshi cricketer and the former captain and vice-captain of the Bangladesh national cricket team.",
+    "age": 29,
+    "batting style": "Right handed",
+    "bowling style": "left-arm fast medium",
+    "image": "https://ibb.co/B6MGCz6",
+    "salary": "200000"
+  }, {
+    "id": 6,
+    "name":"Mominul Haque is a Bangladeshi first-class cricketer who serves as the captain for the Bangladesh national team in Test matches and plays as a left-handed batsman. He plays for Dhaka Division. He has the highest batting average in Tests for a Bangladeshi player",
+    "age": 29,
+    "batting style": "Left handed",
+    "bowling style": "Slow left-arm orthodox",
+    "image": "https://ibb.co/qDfyf1P",
+    "salary": 150000
+  }, {
+    "id": 7,
+    "name":"Taskin Ahmed Tazim is a Bangladeshi cricketer. He is a right-arm fast bowler and a left-handed batsman. He represents Dhaka Metropolis in first-class and List A cricket and the Chittagong Kings and Chittagong Vikings franchise in the Bangladesh Premier League.",
+    "age": 25,
+    "batting style": "Left handed",
+    "bowling style": "Right-arm fast",
+    "image": "https://ibb.co/Ht7TxxN",
+    "salary": 200000
+  }, {
+    "id": 8,
+    "name":"Liton Kumar Das is a Bangladeshi cricketer. He is a right-handed opening batsman and wicket-keeper.He is the highest individual run scorer in an ODI innings by a Bangladeshi Crickete. ",
+    "age": 26,
+    "batting style": "Right handed",
+    "bowling style": "N/A",
+    "image": "https://ibb.co/d6HHqZd",
+    "salary": 90000
+  }, {
+    "id": 9,
+    "name":"Mohammad Shaifuddin is a Bangladeshi cricketer. An all-rounder, in December 2015 he was named in Bangladesh's squad for the 2016 Under-19 Cricket World Cup. He started playing for Bangladesh's national team in 2017.",
+    "age": 24,
+    "batting style": "Left handed",
+    "bowling style": "Right-arm fast",
+    "image": "https://ibb.co/r6FPRSn",
+    "salary": 100000
+  }, {
+    "id": 10,
+    "name":"Mohammad Naim is a Bangladeshi cricketer. He made his international debut for the Bangladesh cricket team in November 2019.",
+    "age": 21,
+    "batting style": "Left handed",
+    "bowling style": "Right arm medium fast",
+    "image": "https://ibb.co/vDN4vTZ",
+    "salary": 100000
+  }, {
+    "id": 11,
+    "name":"Mohammad Sabbir Rahman is a Bangladeshi cricketer. He is from Rajshahi and besides the national team he plays for Rajshahi Division. He is an all-rounder: a right-handed batsman and legbreak bowler. He captained the Bangladesh Under 19's team. ",
+    "age": 29,
+    "batting style": "Right handed",
+    "bowling style": "Right arm medium fast",
+    "image": "https://ibb.co/dWgpcty",
+    "salary": 130000
+  }, {
+    "id": 12,
+    "name":"Mohammad Mithun Ali is a cricketer from Bangladesh. He made his debut for Sylhet Division in 2006/07. He plays for Rangpur Riders in the Bangladesh Premier League. He made his Test debut for the Bangladesh cricket team in November 2018.",
+    "age": 31,
+    "batting style": "Right handed",
+    "bowling style": "Right-arm medium fast",
+    "image": "https://ibb.co/bgng0Gt",
+    "salary": 100000
+  }]

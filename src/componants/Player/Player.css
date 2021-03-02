@@ -1,0 +1,20 @@
+.player{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    padding: bottom 5px;
+}
+.player-name{
+    color:gray;
+    font-weight: 400px;}
+
+    .button{
+        background-color:green;
+        width: 150px;
+        height: 40px;
+        border: 1px solid gold;
+        border-radius:5px;
+        color: red;
+
+
+    }

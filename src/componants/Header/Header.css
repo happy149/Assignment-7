@@ -1,0 +1,9 @@
+.header img {
+    height: 100px;
+}
+.header{
+    text-align: center;
+    color:green;
+    border-bottom: 20px solid green;
+
+}
